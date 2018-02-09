@@ -1,0 +1,168 @@
+.hero {
+
+	text-align: center;
+	color:black;
+	background-image: url('../images/vineyard2.jpeg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	color:#ffffff;
+	height:100vh;
+	background-size:cover;
+	box-shadow: inset 0 0 0 2000px rgba(57,61,59,0.5);
+}
+
+.hero h1 {
+
+	padding-top: 35vh;
+}
+
+.services {
+
+	background-color: #e5e3d7;
+
+}
+
+h2 {
+
+	text-align: center;
+	padding-top:40px;
+	margin-bottom:60px;
+	color: #4D4D26;
+}
+
+span {
+
+	border-bottom: 2px solid #4D4D26;
+}
+
+.services h3 {
+
+	color: #64363E;
+}
+
+i {
+
+	color:#BCBAAA;
+}
+.services p, h3, i {
+
+	text-align: center;
+}
+
+.services p {
+
+	color:#7F7551;
+}
+
+.services i {
+
+	display:block;
+	padding-bottom: 10px;
+}
+
+.testimonial i {
+
+	display:block;
+}
+
+.testimonial p {
+
+	text-align: center;
+	font-size:75%;
+	color:#7F7551;
+	font-weight: bold;
+	line-height:2.5em;
+}
+
+.testimonial {
+
+	background-color: #e5e3d7;
+	padding-top:40px;
+}
+
+.testimonial h5 {
+
+	text-align: center;
+	color:#B7AFA0;
+}
+
+.team {
+
+	background-color: #e5e3d7;
+	padding-bottom: 20px;
+}
+
+img {
+
+	margin: 0 auto;
+	display:block;
+	padding-bottom:10px;
+}
+
+.team h5, p {
+
+	text-align: center;
+}
+
+.pricing {
+
+	background-color: #4D4D26;
+	height:100px;
+}
+
+.pricing h2 {
+
+	color: #ffffff !important;
+	padding: 23px 0 0 0;
+}
+
+.pricing-boxes {
+
+	text-align: center;
+	padding-top:40px;
+	background-color: #A8A592;
+	padding-bottom:40px;
+}
+
+.pricing-boxes h2 {
+
+	margin: 0px 0px !important;
+	padding: 0px 0px 25px 0px !important;
+}
+
+.pricing-boxes .pricing-content {
+
+	line-height: 2.5em;
+}
+
+.box-one {
+
+	padding: 20px 40px;
+	background-color: #ffffff;
+
+}
+
+.box-two {
+
+	padding: 20px 40px;
+	background-color: #3C2221;
+	color:#ffffff;
+}
+
+.box-two h2 {
+
+	color:#ffffff !important;
+}
+
+.box-three {
+
+	background-color: #ffffff;
+	padding: 20px 40px;
+}
+
+.footer {
+
+	background-color: #3F3420;
+	color:#ffffff;
+	padding-top:19px;
+}
